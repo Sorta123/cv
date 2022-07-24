@@ -1,0 +1,38 @@
+body {
+  background-color: #F5EDDC;
+}
+  a {
+    font-family: "Arial",serif;
+    color: red;
+  }
+  h1 {
+    font-family: "Brush Script MT",cursive;
+    color: green;
+  }
+  h2 {
+    font-family: "Lucida Handwriting",cursive;
+    color: purple;
+  }
+  .redhyperlink{
+    color: #EB1D36;
+  }
+  .bluehyperlink{
+    color: #EB1D36;
+  }
+  .userlist{
+    border:2px solid;
+    width:25%;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-right: 20px ;
+    padding-bottom: 20px ;
+
+    border-color: #A2B5BB;
+
+  }
+  .p1 {
+    color : blue;
+  }
+  p {
+    color: #A10035;
+  }
